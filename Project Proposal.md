@@ -6,13 +6,15 @@
 
 Project proposal for the unsupervised Natural Language Processing (NLP) project.
 
-### introduction:
+### Introduction:
 Hotels play a crucial role in traveling and with the increased access to information new pathways of selecting the best ones emerged.
+Travelers across the globe use the Tripadvisor site and app to discover where to stay, what to do and where to eat based on guidance from those who have been there before.
 
 
 ### Data Description:
-https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews dataset on kaggle,
-consisting of 20k reviews from Tripadvisor, with two columns reviews and rating .
+The dataset is taken from kaggle (https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews ), which consists of 20k reviews from TripAdvisor.
+However, in this project, we will explore the hotel reviews and the rating base on customers’ hotel experience.
+
 We plan to predict the level of client satisfaction based on the client's reviews
 
 ### Tools:
