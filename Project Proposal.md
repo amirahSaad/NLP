@@ -1,5 +1,9 @@
 ## NLP Project:
 
+
+![trip-advisor](https://user-images.githubusercontent.com/90131899/141645902-cba2935f-4636-4e8a-87f4-30b4d7da109a.png)
+
+
 project proposal for the unsupervised Natural Language Processing (NLP) project.
 
 ### introduction:
