@@ -8,7 +8,7 @@ Project proposal for the unsupervised Natural Language Processing (NLP) project.
 
 ### Introduction:
 Hotels play a crucial role in traveling and with the increased access to information new pathways of selecting the best ones emerged.
-Travelers across the globe use the Tripadvisor site and app to discover where to stay, what to do and where to eat based on guidance from those who have been there before.
+Travelers across the globe use the Tripadvisor site and app to discover where to stay and where to eat based on guidance from those who have been there before.
 
 
 ### Data Description:
