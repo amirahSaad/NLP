@@ -1,6 +1,6 @@
 # NLP Project
 
-SDAIA Bootcamp project 4
+SDAIA Academy Bootcamp project 4
 
 for Trip Advisor Hotel Reviews.
 
