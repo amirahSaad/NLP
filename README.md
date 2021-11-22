@@ -11,7 +11,7 @@ for Trip Advisor Hotel Reviews.
 - [Sentiment Analysis & Classifier](https://github.com/amirahSaad/NLP/blob/main/NLP_Sentiment%20Analysis%20%26%20Classifier.ipynb)
 - [NLP Topic Modeling](https://github.com/amirahSaad/NLP/blob/main/NLP%20Topic%20Modeling%20T5.ipynb)
 - [Hotel Reviews Slides](https://github.com/amirahSaad/NLP/blob/main/Trip%20Advisor%20Hotel%20Reviews%20Slides.pdf)
-- [Hotel Reviews Final Report](https://github.com/amirahSaad/NLP/blob/main/Trip%20Advisor%20Hotel%20Reviews%20Final%20Report.pdf)
+- [Hotel Reviews Final Report](https://github.com/amirahSaad/NLP/blob/main/Trip%20Advisor%20Hotel%20Reviews%20Final_Report.pdf)
 
 
 ## By:
